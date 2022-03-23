@@ -252,6 +252,8 @@ sekarang kita tambahkan style untuk sounds card
 }
 ```
 
+## Membuat Javascript
+
 setelah itu kita akan masuk ke bagian javascript.
 kita akan buat event handler. Saat card-nya diklik akan memutar audio yang sudah kita siapkan.
 
