@@ -1,4 +1,4 @@
-#Kalem Sounds App
+# Kalem Sounds App
 
 Kita akan membuat website pemutar musik ambience sederhana dengan menggunakan HTML, CSS dan Vanilla JS.
 Fitur:
